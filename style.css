@@ -51,6 +51,7 @@ header ul li a:hover,
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 .main::after {
   content: "";
